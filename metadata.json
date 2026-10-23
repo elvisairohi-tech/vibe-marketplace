@@ -1,0 +1,6 @@
+{
+  "name": "Vibe - Social, Marketplace & Dating Platform",
+  "description": "Global, national, and local ecosystem combining community social feed, peer-to-peer marketplace, and dating interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
